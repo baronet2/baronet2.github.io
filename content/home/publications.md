@@ -7,8 +7,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Last publications
-# subtitle: 'See also my [Google Scholar](https://scholar.google.com/citations?user=jxApK7gAAAAJ&hl=en).'
+title: Publications
+subtitle: 'See also my [Google Scholar](https://scholar.google.ca/citations?user=p9-yqaMAAAAJ&hl=en).'
 
 content:
   # Filter on criteria
@@ -31,5 +31,5 @@ content:
 design:
   # Choose a view for the listings:
   view: citation
-  columns: '2'
+  columns: '1'
 ---

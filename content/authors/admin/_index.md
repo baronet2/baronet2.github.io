@@ -2,11 +2,11 @@
 
 
 # Display name
-title: Simon Gravelle
+title: Ethan Baron
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Ethan
+last_name: Baron
 
 # Status emoji
 status:
@@ -16,28 +16,27 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSCA Fellow and CNRS future recruit
+role: Engineering Science Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LIPhy, University Grenoble Alpes
-    url: https://liphy.univ-grenoble-alpes.fr/
+  - name: University of Toronto
+    url: https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computer physicist in soft matter and fluids at interfaces at LIPhy in Grenoble, France.
+bio: I am a fourth-year Engineering Science student at the University of Toronto.
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - Machine learning
+  - Sports analytics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
-      year: 2015
+    - course: BASc in Engineering Science (in progress)
+      institution: University of Toronto
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,26 +46,26 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:simon.gravelle@live.fr
+    link: mailto:eth.baron@mail.utoronto.ca
     # link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GravelleSimon
-    label: Follow me on Twitter
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GravelleSimon
+  #   label: Follow me on Twitter
   #- icon: mastodon
   #  icon_pack: fab
   #  link: https://mastodon.social/@simongravelle
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl=fr
+    link: https://scholar.google.ca/citations?user=p9-yqaMAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/simongravelle
+    link: https://github.com/baronet2
     display:
       header: true
-  - icon: cv
-    icon_pack: ai
-    link: files/cv/cv.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: files/cv/cv.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -74,23 +73,12 @@ highlight_name: true
 
 **About me**
 
-I am a physicist in soft matter and fluids at interfaces at [LIPhy](https://liphy.univ-grenoble-alpes.fr/)
-in Grenoble (France). In 2022 I received a [MSCA](https://marie-sklodowska-curie-actions.ec.europa.eu/)
-grant (*NanoSep*) to study the demixing of fluid mixtures by hybrid nanoporous materials, and I will
-soon be working at [CNRS](https://www.cnrs.fr/).
+Hello! I am a fourth-year Engineering Science student at the [University of Toronto](https://discover.engineering.utoronto.ca/programs/engineering-programs/) majoring in Machine Intelligence, and a data scientist at [Zelus Analytics](https://zelusanalytics.com/).
 
-**Open source and open data**
+I am interested in the interesection between statistics and machine learning, especially deep representation learning methods. I am currently completing my undergraduate thesis under the supervision of Prof. [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/) in the [Data-Driven Decision Making Lab](https://d3m.mie.utoronto.ca/)
 
-All code developed as part of my research is open source and available on public repositories, see for instance 
-[NMRforMD](https://nmrformd.readthedocs.io), a Python script for calculating hydrogen NMR relaxation rates from molecular dynamics simulations,
-or my [Github](https://github.com/simongravelle/) repository containing molecular simulation scripts and data.
-In parallel, I have been involved in the development of [MAICoS](https://maicos-devel.gitlab.io/maicos/index.html),
-a Python toolkit for analyzing confined molecular simulations.
+I have presented my sports analytics research at [MathSport International](http://www.mathsportinternational.com/index.html), CORS (where I won the [student paper competition](https://www.cors.ca/?q=content/student-paper-competition#3)), [NESSIS](https://www.nessis.org/nessis21.html), and the [Big Data Cup finals](https://www.youtube.com/watch?v=QcfcsO8A3k0) (where my group won the undegraduate category competition). I am also an executive of the University of Toronto Sports Analytics student group ([UTSPAN](https://sportsanalytics.sa.utoronto.ca/)), fostering a sports analytics community within the UofT student body, and have served two years as president of the club.
 
-**Outreach**
+Previously, I was a research assistant in the [University of Toronto Transportation Research Institute](https://uttri.utoronto.ca/), and presented my research on modelling travel demand and real estate prices at [TAC](https://www.tac-atc.ca/en/conference) and [NARSC](https://www.narsc.org/newsite/conference/).
 
-In parallel to my research activities, I am developing several outreach projects. The most advanced 
-among my current projects are the [LAMMPS tutorials](https://lammpstutorials.github.io). 
-I also wrote [GROMACS tutorials](https://gromacstutorials.github.io), and manage a
-[gallery of animations](https://www.youtube.com/@SimonGravelle), along with creating 
-[molecular art](https://simongravelle.github.io/gallery/).
+Always happy to meet new people and learn about their work, so feel free to reach out!
