@@ -1,19 +1,23 @@
 ---
-title: "Modelling GTHA post-secondary school location choice"
-date: 2021-11-01
-publishDate:  2021-11-01
-authors: ["**Ethan Baron**", "Gonzalo Martinez Santos", "Eric J. Miller"]
+title: "Bike2Vec: Vector embedding representations of road cycling riders and race"
+date: 2023-06-28
+publishDate:  2023-06-28
+authors: ["**Ethan Baron**", "Bram Janssens", "Matthias Bogaert"]
 publication_types: ["2"]
-abstract: "We modelled school location choices of post-secondary students in the Greater Toronto and Hamilton Area using data from two student travel surveys. We compared the performance of random utility models (multinomial logistic regressions) and machine learning methods (random forest models), discussing the merits of each. Our key findings include the effectiveness of gravity models compared to more advanced accessibility models, important relationship between student’s living arrangement and school location choice, and the different patterns in behaviours of university and college students. We also find that while the random forest models obtain similar accuracy to the classic econometric tools, they are less suitable for predictive applications or extensions to unseen data."
+abstract: "Vector embeddings have been successfully applied in several domains to obtain effective representations of non-numeric data which can then be used in various downstream tasks. We present a novel application of vector embeddings in professional road cycling by demonstrating a method to learn representations for riders and races based on historical results. We use unsupervised learning techniques to validate that the resultant embeddings capture interesting features of riders and races. These embeddings could be used for downstream prediction tasks such as early talent identification and race outcome prediction."
 featured: true
-publication: "Transportation Association of Canada Conference and Exhibition"
+publication: "10th MathSport International Conference Proceedings"
 links:
   - icon_pack: fas
     icon: scroll
+    name: Link
+    url: 'https://sites.google.com/view/mathsportinternational10/home/proceedings'
+  - icon_pack: fas
+    icon: scroll
     name: PDF
-    url: 'https://www.tac-atc.ca/sites/default/files/conf%5Fpapers/barone%5Fmodellinggthapost-secondaryschoollocationchoice.pdf'
+    url: 'https://arxiv.org/abs/2305.10471'
   - icon_pack: ai
     icon: open-data
     name: GitHub
-    url: 'https://github.com/gonzaloMS-2000/PORPOS-TMG'
+    url: 'https://github.com/baronet2/Bike2Vec'
 ---

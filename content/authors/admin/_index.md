@@ -63,9 +63,9 @@ social:
     link: https://github.com/baronet2
     display:
       header: true
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: files/cv/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: files/cv/cv.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

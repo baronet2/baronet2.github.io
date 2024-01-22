@@ -1,5 +1,5 @@
 ---
-title: "RIPP: Holistic player evaluation with region-based isolated player performanc"
+title: "RIPP: Holistic player evaluation with region-based isolated player performance"
 date: 2022-07-01
 publishDate:  2022-07-01
 authors: ["**Ethan Baron**", "Daniel Hocevar", "Kabir Malik", "Aaron White"]
