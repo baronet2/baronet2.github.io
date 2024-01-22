@@ -75,7 +75,7 @@ highlight_name: true
 
 Hello! I am a fourth-year Engineering Science student at the [University of Toronto](https://discover.engineering.utoronto.ca/programs/engineering-programs/) majoring in Machine Intelligence, and a data scientist at [Zelus Analytics](https://zelusanalytics.com/).
 
-I am interested in the interesection between statistics and machine learning, especially deep representation learning methods. I am currently completing my undergraduate thesis under the supervision of Prof. [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/) in the [Data-Driven Decision Making Lab](https://d3m.mie.utoronto.ca/)
+I am currently completing my undergraduate thesis under the supervision of Prof. [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/) in the [Data-Driven Decision Making Lab](https://d3m.mie.utoronto.ca/). I am interested in the interesection between statistics and machine learning, especially deep representation learning methods.
 
 I have presented my sports analytics research at [MathSport International](http://www.mathsportinternational.com/index.html), CORS (where I won the [student paper competition](https://www.cors.ca/?q=content/student-paper-competition#3)), [NESSIS](https://www.nessis.org/nessis21.html), and the [Big Data Cup finals](https://www.youtube.com/watch?v=QcfcsO8A3k0) (where my group won the undegraduate category competition). I am also an executive of the University of Toronto Sports Analytics student group ([UTSPAN](https://sportsanalytics.sa.utoronto.ca/)), fostering a sports analytics community within the UofT student body, and have served two years as president of the club.
 
