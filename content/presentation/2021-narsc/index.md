@@ -8,8 +8,8 @@ abstract: ""
 featured: true
 publication: "North American Regional Science Council"
 links:
-  - icon_pack: fas
-    icon: scroll
+  - icon_pack: fa
+    icon: file-pdf
     name: PDF
     url: 'https://tmg.utoronto.ca/files/Reports/DAAverageDwellingValueReport.pdf'
 ---

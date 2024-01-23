@@ -5,16 +5,16 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 59
+weight: 60
 
-title: Publications
+title: Presentations
 subtitle: 'See also my [Google Scholar](https://scholar.google.ca/citations?user=p9-yqaMAAAAJ&hl=en).'
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - publication
+      - presentation
     tag: ''
     category: ''
     publication_type: ''

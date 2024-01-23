@@ -47,6 +47,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:eth.baron@mail.utoronto.ca
+  - icon: linkedin
+    icon_pack: fa
+    link: https://www.linkedin.com/in/baron-ethan/
     # link: '/#contact'
   # - icon: twitter
   #   icon_pack: fab
@@ -55,8 +58,8 @@ social:
   #- icon: mastodon
   #  icon_pack: fab
   #  link: https://mastodon.social/@simongravelle
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.ca/citations?user=p9-yqaMAAAAJ&hl=en
   - icon: github
     icon_pack: fab

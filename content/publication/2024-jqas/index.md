@@ -9,15 +9,15 @@ featured: true
 publication: "Journal of Quantitative Analysis in Sports (ahead of print)"
 links:
   - icon_pack: fas
-    icon: scroll
-    name: Link
+    icon: book
+    name: JQAS
     url: 'https://doi.org/10.1515/jqas-2022-0107'
-  - icon_pack: fas
-    icon: scroll
-    name: PDF
-    url: 'https://arxiv.org/abs/2308.01523'
   - icon_pack: ai
-    icon: open-data
+    icon: arxiv
+    name: arXiv
+    url: 'https://arxiv.org/abs/2308.01523'
+  - icon_pack: fab
+    icon: github
     name: GitHub
     url: 'https://github.com/baronet2/shotmissr'
 ---

@@ -9,15 +9,15 @@ featured: true
 publication: "10th MathSport International Conference Proceedings"
 links:
   - icon_pack: fas
-    icon: scroll
-    name: Link
+    icon: book
+    name: MathSport
     url: 'https://sites.google.com/view/mathsportinternational10/home/proceedings'
-  - icon_pack: fas
-    icon: scroll
-    name: PDF
-    url: 'https://arxiv.org/abs/2305.10471'
   - icon_pack: ai
-    icon: open-data
+    icon: arxiv
+    name: arXiv
+    url: 'https://arxiv.org/abs/2305.10471'
+  - icon_pack: fab
+    icon: github
     name: GitHub
     url: 'https://github.com/baronet2/Bike2Vec'
 ---

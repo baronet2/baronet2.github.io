@@ -9,15 +9,18 @@ featured: true
 publication: "Big Data Cup (hockey analytics competition)"
 links:
   - icon_pack: fas
-    icon: scroll
-    name: Link
+    icon: trophy
+    name: Winner, Undergraduate Category
+  - icon_pack: fab
+    icon: youtube
+    name: Talk
     url: 'https://youtu.be/QcfcsO8A3k0'
-  - icon_pack: fas
-    icon: scroll
+  - icon_pack: fa
+    icon: file-pdf
     name: PDF
     url: 'https://github.com/baronet2/RIPP/blob/master/Paper%20Submission.pdf'
-  - icon_pack: ai
-    icon: open-data
+  - icon_pack: fab
+    icon: github
     name: GitHub
     url: 'https://github.com/baronet2/RIPP'
 ---
