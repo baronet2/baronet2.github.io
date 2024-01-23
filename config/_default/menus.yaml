@@ -15,6 +15,9 @@ main:
   - name: Publications
     url: '/publication.html'
     weight: 40
+  - name: Presentations
+    url: '/presentation.html'
+    weight: 50
 #  - name: Blog
 #    url: '/blog/'
 #    weight: 60
