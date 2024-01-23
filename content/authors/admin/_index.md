@@ -48,7 +48,7 @@ social:
     icon_pack: fas
     link: mailto:eth.baron@mail.utoronto.ca
   - icon: linkedin
-    icon_pack: fa
+    icon_pack: fab
     link: https://www.linkedin.com/in/baron-ethan/
     # link: '/#contact'
   # - icon: twitter
@@ -74,14 +74,10 @@ social:
 highlight_name: true
 ---
 
-**About me**
+I am a fourth-year Engineering Science student at the [University of Toronto](https://discover.engineering.utoronto.ca/programs/engineering-programs/) majoring in Machine Intelligence.
 
-Hello! I am a fourth-year Engineering Science student at the [University of Toronto](https://discover.engineering.utoronto.ca/programs/engineering-programs/) majoring in Machine Intelligence, and a data scientist at [Zelus Analytics](https://zelusanalytics.com/).
+I am currently completing my undergraduate thesis under the supervision of Prof. [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/) in the [Data-Driven Decision Making Lab](https://d3m.mie.utoronto.ca/) working on the use of large language models in information retrieval. More generally, I am interested in the interesection between statistics and machine learning, especially deep representation learning methods.
 
-I am currently completing my undergraduate thesis under the supervision of Prof. [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/) in the [Data-Driven Decision Making Lab](https://d3m.mie.utoronto.ca/). I am interested in the interesection between statistics and machine learning, especially deep representation learning methods.
-
-I have presented my sports analytics research at [MathSport International](http://www.mathsportinternational.com/index.html), CORS (where I won the [student paper competition](https://www.cors.ca/?q=content/student-paper-competition#3)), [NESSIS](https://www.nessis.org/nessis21.html), and the [Big Data Cup finals](https://www.youtube.com/watch?v=QcfcsO8A3k0) (where my group won the undegraduate category competition). I am also an executive of the University of Toronto Sports Analytics student group ([UTSPAN](https://sportsanalytics.sa.utoronto.ca/)), fostering a sports analytics community within the UofT student body, and have served two years as president of the club.
+I am also very interested in sports analytics, and spent 16 months as a full-time data scientist with [Zelus Analytics](https://zelusanalytics.com/). I have presented my sports analytics research at [MathSport International](http://www.mathsportinternational.com/index.html), CORS (where I won the [student paper competition](https://www.cors.ca/?q=content/student-paper-competition#3)), [NESSIS](https://www.nessis.org/nessis21.html), and the [Big Data Cup finals](https://www.youtube.com/watch?v=QcfcsO8A3k0) (where my group won the undegraduate category competition). I am also an executive of the University of Toronto Sports Analytics student group ([UTSPAN](https://sportsanalytics.sa.utoronto.ca/)), fostering a sports analytics community within the UofT student body, and have served two years as president of the club.
 
 Previously, I was a research assistant in the [University of Toronto Transportation Research Institute](https://uttri.utoronto.ca/), and presented my research on modelling travel demand and real estate prices at [TAC](https://www.tac-atc.ca/en/conference) and [NARSC](https://www.narsc.org/newsite/conference/).
-
-Always happy to meet new people and learn about their work, so feel free to reach out!
