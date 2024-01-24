@@ -6,7 +6,7 @@
 main:
   - name: " "
     weight: 5
-  - name: Home
+  - name: About
     url: '/index.html'
     weight: 10
   # - name: News
@@ -15,15 +15,15 @@ main:
   - name: Publications
     url: '/publication.html'
     weight: 40
-  - name: Presentations
+  - name: Talks
     url: '/presentation.html'
     weight: 50
 #  - name: Blog
 #    url: '/blog/'
 #    weight: 60
- # - name: CV
- #   url: '/files/cv.pdf'
- #   weight: 70
+  - name: CV
+    url: '/files/cv/cv.pdf'
+    weight: 70
   
 # Sub-home menu
 #  - name: About

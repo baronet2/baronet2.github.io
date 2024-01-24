@@ -6,11 +6,12 @@ authors: ["**Ethan Baron**", "Daniel Hocevar", "Kabir Malik", "Aaron White"]
 publication_types: ["2"]
 abstract: "We propose a holistic player evaluation for hockey which leverages data to better represent players' value as a sum of the expected goal differential resulting from each of their actions."
 featured: true
-publication: "Big Data Cup (hockey analytics competition)"
+publication: "Big Data Cup (BDC)"
 links:
   - icon_pack: fas
     icon: trophy
     name: Winner, Undergraduate Category
+    url: 'https://canssi.ca/news/bdc-2022/'
   - icon_pack: fab
     icon: youtube
     name: Talk

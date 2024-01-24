@@ -6,7 +6,7 @@ authors: ["**Ethan Baron**", "Eric J. Miller"]
 publication_types: ["2"]
 abstract: ""
 featured: true
-publication: "North American Regional Science Council"
+publication: "North American Regional Science Council (NARSC)"
 links:
   - icon_pack: fa
     icon: file-pdf

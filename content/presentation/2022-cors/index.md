@@ -6,7 +6,7 @@ authors: ["**Ethan Baron**", "Nathan Sandholtz", "Devin Pleuler", "Timothy C. Y.
 publication_types: ["2"]
 abstract: ""
 featured: true
-publication: "Canadian Operational Research Society Annual Conference, Vancouver, Canada"
+publication: "Canadian Operational Research Society Annual Conference (CORS), Vancouver, Canada"
 links:
   - icon_pack: fas
     icon: trophy
