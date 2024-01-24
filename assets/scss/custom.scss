@@ -283,3 +283,45 @@ h2, h3 {
   }
 }
 }
+
+.btn-outline-primary:has(.fas.fa-trophy) {
+  color: darkorange;
+  border-color: darkorange; /* If you want to change the border color as well */
+  background-color: lightyellow;
+}
+
+.btn-outline-primary:has(.ai.ai-arxiv) {
+  color: darkred;
+  border-color: darkred; /* If you want to change the border color as well */
+  background-color: lightpink;
+}
+
+.btn-outline-primary:has(.fa.fa-file-pdf) {
+  color: darkred;
+  border-color: darkred; /* If you want to change the border color as well */
+  background-color: lightpink;
+}
+
+.btn-outline-primary:has(.fab.fa-github) {
+  color: black;
+  border-color: black; /* If you want to change the border color as well */
+  background-color: lightgray;
+}
+
+.btn-outline-primary:has(.fab.fa-youtube) {
+  color: darkgreen;
+  border-color: darkgreen; /* If you want to change the border color as well */
+  background-color: lightgreen;
+}
+
+.btn-outline-primary:has(.fas.fa-book) {
+  color: darkblue;
+  border-color: darkblue; /* If you want to change the border color as well */
+  background-color: lightblue;
+}
+
+.btn-outline-primary:has(.fa.fa-desktop) {
+  color: indigo;
+  border-color: indigo; /* If you want to change the border color as well */
+  background-color: violet;
+}
