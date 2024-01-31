@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Ethan Baron</title>
+    <link>https://baronet2.github.io/publication-type/2.html</link>
+      <atom:link href="https://baronet2.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://baronet2.github.io/media/icon_hu06c59459e5aaaa7945147424c455e5e9_674_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://baronet2.github.io/publication-type/2.html</link>
+    </image>
+    
+    <item>
+      <title>Miss It Like Messi: Extracting Value from Off-Target Shots in Soccer</title>
+      <link>https://baronet2.github.io/publication/2024-jqas.html</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://baronet2.github.io/publication/2024-jqas.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bike2Vec: Vector embedding representations of road cycling riders and race</title>
+      <link>https://baronet2.github.io/publication/2023-mathsport.html</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://baronet2.github.io/publication/2023-mathsport.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RIPP: Holistic player evaluation with region-based isolated player performance</title>
+      <link>https://baronet2.github.io/presentation/2022-bigdatacup.html</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://baronet2.github.io/presentation/2022-bigdatacup.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miss it like Messi: Extracting a signal from off-target shots in soccer</title>
+      <link>https://baronet2.github.io/presentation/2022-cors.html</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://baronet2.github.io/presentation/2022-cors.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling average dwelling value of Toronto dissemination areas</title>
+      <link>https://baronet2.github.io/presentation/2021-narsc.html</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://baronet2.github.io/presentation/2021-narsc.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive value of off-target shots in soccer</title>
+      <link>https://baronet2.github.io/presentation/2021-nessis.html</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://baronet2.github.io/presentation/2021-nessis.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling GTHA post-secondary school location choice</title>
+      <link>https://baronet2.github.io/publication/2021-tac.html</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://baronet2.github.io/publication/2021-tac.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
