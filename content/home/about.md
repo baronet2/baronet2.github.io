@@ -18,11 +18,11 @@ title:
 # Customize the section spacing. Order is top, right, bottom, left.
 css_style: "padding-top: 20px; padding-bottom: 20px;"
 
-design:
-  background:
-      gradient_start: '#aaccaa'
-      gradient_end: '#ffffff'
-      gradient_angle: 180
+# design:
+#   background:
+#       gradient_start: '#aaccaa'
+#       gradient_end: '#ffffff'
+#       gradient_angle: 180
 
 
 # Choose the user profile to display
