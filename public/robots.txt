@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://baronet2.github.io/sitemap.xml
