@@ -74,7 +74,7 @@ social:
 highlight_name: true
 ---
 
-I am a fourth-year Engineering Science student at the [University of Toronto](https://discover.engineering.utoronto.ca/programs/engineering-programs/) majoring in Machine Intelligence.
+I am a fourth-year Engineering Science student at the [University of Toronto](https://engsci.utoronto.ca/program/what-is-engsci/) majoring in Machine Intelligence.
 
 I am completing my undergraduate thesis on the use of large language models in information retrieval under Prof. [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/) in the [Data-Driven Decision Making Lab](https://d3m.mie.utoronto.ca/). More generally, I am interested in the intersection between statistics and machine learning, and especially deep representation learning methods.
 
