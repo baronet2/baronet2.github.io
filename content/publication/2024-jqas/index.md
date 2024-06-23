@@ -1,5 +1,5 @@
 ---
-title: "Miss It Like Messi: Extracting Value from Off-Target Shots in Soccer"
+title: "Miss it like Messi: Extracting value from off-target shots in soccer"
 date: 2024-01-01
 publishDate:  2024-01-01
 authors: ["**Ethan Baron**", "Nathan Sandholtz", "Devin Pleuler", "Timothy C. Y. Chan"]
