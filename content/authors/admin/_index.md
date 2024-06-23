@@ -16,15 +16,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Engineering Science Student
+role: Incoming PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Toronto
-    url: https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/
+  - name: NYU Courant
+    url: https://cs.nyu.edu/home/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a fourth-year Engineering Science student at the University of Toronto.
+bio: I am an incoming PhD student in computer science at NYU Courant.
 
 # Interests to show in About widget
 interests:
@@ -74,10 +74,6 @@ social:
 highlight_name: true
 ---
 
-I am a fourth-year Engineering Science student at the [University of Toronto](https://engsci.utoronto.ca/program/what-is-engsci/) majoring in Machine Intelligence.
+I recently graduated from the [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) program at the University of Toronto, and am an incoming PhD student in Computer Science at [NYU Courant](https://cs.nyu.edu/home/index.html) under [Andrew Gordon Wilson](https://cims.nyu.edu/~andrewgw/). My interests lie at the intersection between statistics and machine learning, and especially in deep representation learning methods.
 
-I am completing my undergraduate thesis on the use of large language models in information retrieval under Prof. [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/) in the [Data-Driven Decision Making Lab](https://d3m.mie.utoronto.ca/). More generally, I am interested in the intersection between statistics and machine learning, and especially deep representation learning methods.
-
-My other main research area is in sports analytics. I spent 16 months as a full-time data scientist with [Zelus Analytics](https://zelusanalytics.com/) and have conducted soccer analytics research under Prof. [Timothy Chan](https://chan.mie.utoronto.ca/). In my free time, I serve as an executive of the University of Toronto Sports Analytics student group ([UTSPAN](https://sportsanalytics.sa.utoronto.ca/)).
-
-I have presented my sports analytics research at [MathSport International](http://www.mathsportinternational.com/index.html), CORS (where I won the [student paper competition](https://www.cors.ca/?q=content/student-paper-competition#3)), [NESSIS](https://www.nessis.org/nessis21.html), and the [Big Data Cup finals](https://www.youtube.com/watch?v=QcfcsO8A3k0) (where my group won the undegraduate category competition). Previously, I was a research assistant under Prof. [Eric Miller](https://civmin.utoronto.ca/home/about-us/directory/professors/eric-miller/) in the [University of Toronto Transportation Research Institute](https://uttri.utoronto.ca/), and presented my research on modelling travel demand and real estate prices at [TAC](https://www.tac-atc.ca/en/conference) and [NARSC](https://www.narsc.org/newsite/conference/).
+I wrote my undergraduate thesis on information retrieval under [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/). Previously, I worked on sports analytics research under [Timothy Chan](https://chan.mie.utoronto.ca/) and on transportation planning under [Eric Miller](https://civmin.utoronto.ca/home/about-us/directory/professors/eric-miller/). I also spent 18 months at [Zelus Analytics](https://zelusanalytics.com/) working on soccer analytics, and in my free time served as an executive of the University of Toronto Sports Analytics student group ([UTSPAN](https://sportsanalytics.sa.utoronto.ca/)).
