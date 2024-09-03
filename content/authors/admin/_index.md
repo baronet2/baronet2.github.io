@@ -16,7 +16,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Incoming PhD Student
+role: PhD Student, Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -24,7 +24,7 @@ organizations:
     url: https://cs.nyu.edu/home/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an incoming PhD student in Computer Science at NYU Courant.
+bio: I am a PhD student in Computer Science at NYU Courant.
 
 # Interests to show in About widget
 interests:
@@ -74,6 +74,6 @@ social:
 highlight_name: true
 ---
 
-I am an incoming PhD student in Computer Science at [NYU Courant](https://cs.nyu.edu/home/index.html), working under [Andrew Gordon Wilson](https://cims.nyu.edu/~andrewgw/). My interests lie at the intersection between statistics and machine learning, and especially in deep representation learning methods.
+I am a PhD student in Computer Science at [NYU Courant](https://cs.nyu.edu/home/index.html), working under [Andrew Gordon Wilson](https://cims.nyu.edu/~andrewgw/). My interests lie at the intersection between statistics and machine learning, and especially in deep representation learning methods.
 
 I recently completed my undergraduate degree in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) at the University of Toronto, majoring in Machine Intelligence. During my undergrad, I worked on information retrieval under [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/), soccer analytics under [Timothy Chan](https://chan.mie.utoronto.ca/), and transportation modelling under [Eric Miller](https://civmin.utoronto.ca/home/about-us/directory/professors/eric-miller/). I've also spent 18 months as a full-time data scientist at [Zelus Analytics](https://zelusanalytics.com/), and in my free time served as an executive of the University of Toronto Sports Analytics student group ([UTSPAN](https://sportsanalytics.sa.utoronto.ca/)).
