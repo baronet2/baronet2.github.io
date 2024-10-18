@@ -1,9 +1,9 @@
 ---
 title: "Multi-aspect reviewed-item retrieval"
-date: 2024-01-01
-publishDate:  2024-01-01
+date: 2024-05-01
+publishDate:  2024-05-01
 authors: ["**Ethan Baron**"]
-publication_types: ["2"]
+publication_types: ["7"]
 abstract: "In this thesis, we explore three extensions to the standard information retrieval setting.
 
 Firstly, in some domains, it is common for users to seek items satisfying multiple independent aspects, expressed through multi-aspect queries. Classical information retrieval algorithms tend to perform poorly on such multi-aspect queries. Previously-proposed methods that explicitly account for multi-aspect structure offer only small improvements in performance over classical methods. We derive a principled algorithm based on a graphical model for multi-aspect retrieval and validate empirically that this algorithm improves performance on multi-aspect queries over classical approaches. Our algorithm offers performance competitive with large language model prompting at a more reasonable computational cost.
