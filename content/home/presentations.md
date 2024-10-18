@@ -7,7 +7,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Talks
+title: Selected Talks
 subtitle: 'See also my [Google Scholar](https://scholar.google.ca/citations?user=p9-yqaMAAAAJ&hl=en).'
 
 content:
@@ -19,7 +19,7 @@ content:
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: false
+    featured_only: true
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)

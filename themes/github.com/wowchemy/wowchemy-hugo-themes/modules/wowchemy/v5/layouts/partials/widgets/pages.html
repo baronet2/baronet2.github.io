@@ -45,8 +45,8 @@
   {{ $archive_page = site.GetPage (printf "authors/%s" (urlize $st.Params.content.filters.author)) }}
   {{ $query = $query | intersect $archive_page.Pages }}
 {{ end }}
-{{ if $st.Params.content.filters.exclude_featured }}
-  {{ $query = where $query "Params.featured" "!=" true }}
+{{ if $st.Params.content.filters.featured_only }}
+  {{ $query = where $query "Params.featured" "==" true }}
 {{ end }}
 {{ if $st.Params.content.filters.exclude_past }}
   {{ $query = where $query "Date" ">=" now }}
