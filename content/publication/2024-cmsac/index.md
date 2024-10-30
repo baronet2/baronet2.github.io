@@ -10,7 +10,7 @@ To this end, we apply Probabilistic Matrix Factorization (PMF), a framework comm
 
 We contrast the empirical performance of PMF to the logistic regression approach and investigate the multivariate representations produced by PMF to gain insights into climber characteristics. Our results show that the multivariate PMF representations improve predictive performance of professional bouldering competitions by capturing both the overall strength of climbers and their specialized skill sets."
 featured: true
-publication: "Carnegie Mellon Sports Analytics Conference"
+publication: "Carnegie Mellon Sports Analytics Conference (CMSAC)"
 links:
   - icon_pack: fas
     icon: trophy
