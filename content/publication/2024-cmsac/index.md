@@ -14,7 +14,7 @@ publication: "Carnegie Mellon Sports Analytics Conference (CMSAC)"
 links:
   - icon_pack: fas
     icon: trophy
-    name: Finalist, Reproducible Research Competition
+    name: Winner, Reproducible Research Competition
     url: 'https://www.stat.cmu.edu/cmsac/conference/2024/'
   - icon_pack: fas
     icon: book
