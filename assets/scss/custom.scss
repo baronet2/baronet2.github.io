@@ -300,6 +300,12 @@ h2, h3 {
   background-color: lightyellow;
 }
 
+.btn-outline-primary:has(.fas.fa-star) {
+  color: darkorange;
+  border-color: darkorange; /* If you want to change the border color as well */
+  background-color: lightyellow;
+}
+
 .btn-outline-primary:has(.ai.ai-arxiv) {
   color: darkred;
   border-color: darkred; /* If you want to change the border color as well */
