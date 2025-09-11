@@ -10,6 +10,8 @@ featured: true
 publication: "ICML Workshop on Exploration in AI Today **(Best Paper)**
 <br>
 ICML Workshop on Generative AI and Biology **(Spotlight)**
+<br>
+Machine Learning in Computational Biology
 "
 links:
   - icon_pack: fas
@@ -19,7 +21,11 @@ links:
   - icon_pack: fas
     icon: star
     name: Spotlight, GenBio @ ICML
-    url: 'https://genbio-workshop.github.io/2025/'
+    url: 'https://openreview.net/forum?id=OUETBZ4lKC'
+  - icon_pack: fas
+    icon: book
+    name: MLCB
+    url: 'https://www.mlcb.org/posters'
   - icon_pack: fa
     icon: file-pdf
     name: PDF
