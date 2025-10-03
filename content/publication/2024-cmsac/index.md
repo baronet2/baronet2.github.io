@@ -1,5 +1,5 @@
 ---
-title: "Boulder2Vec: Modeling Climber Performances in Professional Bouldering Competitions"
+title: "Boulder2Vec: Modeling climber performances in professional bouldering competitions"
 date: 2024-11-02
 publishDate:  2024-10-06
 authors: ["**Ethan Baron**, Victor Hau, Zeke Weng"]
@@ -28,4 +28,8 @@ links:
     icon: github
     name: GitHub
     url: 'https://github.com/baronet2/boulder2vec'
+  - icon_pack: fab
+    icon: youtube
+    name: Video
+    url: 'https://www.youtube.com/watch?v=Tsvp1APQqRA&pp=ygULYm91bGRlcjJ2ZWM%3D'
 ---

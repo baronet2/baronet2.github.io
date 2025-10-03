@@ -10,7 +10,7 @@ publication: "SIGIR Workshop on Information Retrieval's Role in RAG Systems **(O
 links:
   - icon_pack: fas
     icon: star
-    name: Oral
+    name: Oral, IR-RAG @ SIGIR
     url: 'https://coda.io/@rstless-group/ir-rag-sigir24'
   - icon_pack: fas
     icon: book
