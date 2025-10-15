@@ -9,6 +9,10 @@ abstract: "Many time series applications require access to multi-step forecast t
 featured: true
 publication: "NeurIPS Workshop on Recent Advances in Time Series Foundation Models"
 links:
+  - icon_pack: fas
+    icon: book
+    name: BERT<sup>2</sup>S
+    url: 'https://openreview.net/forum?id=ZFwFB4MEu2'
   - icon_pack: ai
     icon: arxiv
     name: arXiv
