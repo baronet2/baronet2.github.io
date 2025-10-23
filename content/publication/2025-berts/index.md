@@ -1,6 +1,6 @@
 ---
 title: "Efficiently generating correlated sample paths from multi-step time series foundation models"
-date: 2025-12-07
+date: 2025-10-07
 publishDate:  2025-10-02
 authors: ["**Ethan Baron**, Boris Oreshkin, Ruijun Ma, Hanyu Zhang, Kari Torkkola, Michael W. Mahoney, Andrew Gordon Wilson, Tatiana Konstantinova"]
 publication_types: ["1"]
