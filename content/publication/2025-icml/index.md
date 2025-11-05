@@ -30,5 +30,9 @@ links:
     icon: file-pdf
     name: PDF
     url: 'https://openreview.net/pdf?id=YqQoNJWY22'
+  - icon_pack: fab
+    icon: github
+    name: GitHub
+    url: 'https://github.com/baronet2/SCISOR'
 ---
 
