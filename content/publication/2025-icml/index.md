@@ -26,10 +26,10 @@ links:
     icon: book
     name: MLCB
     url: 'https://www.mlcb.org/posters'
-  - icon_pack: fa
-    icon: file-pdf
-    name: PDF
-    url: 'https://openreview.net/pdf?id=YqQoNJWY22'
+  - icon_pack: ai
+    icon: arxiv
+    name: arXiv
+    url: 'https://arxiv.org/abs/2511.07390'
   - icon_pack: fab
     icon: github
     name: GitHub
