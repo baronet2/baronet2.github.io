@@ -1,5 +1,5 @@
 ---
-title: "Bike2Vec: Vector embedding representations of road cycling riders and race"
+title: "Bike2Vec: Vector embedding representations of road cycling riders and races"
 date: 2023-06-28
 publishDate:  2023-06-28
 authors: ["**Ethan Baron**", "Bram Janssens", "Matthias Bogaert"]
