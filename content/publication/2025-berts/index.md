@@ -11,7 +11,7 @@ publication: "NeurIPS Workshop on Recent Advances in Time Series Foundation Mode
 links:
   - icon_pack: fas
     icon: star
-    name: Oral, BERT<sup>2</sup>S @ NeurIPS
+    name: Top 4 Paper, BERT<sup>2</sup>S @ NeurIPS
     url: 'https://berts-workshop.github.io/accepted-papers/'
   - icon_pack: ai
     icon: arxiv
