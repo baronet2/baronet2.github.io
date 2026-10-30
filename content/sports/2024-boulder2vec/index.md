@@ -1,5 +1,5 @@
 ---
-title: "Boulder2Vec: Modeling climber performances in professional bouldering competitions"
+title: "Boulder2Vec: Modeling Climber Performances in Professional Bouldering Competitions"
 date: 2024-11-02
 publishDate:  2024-10-06
 authors: ["**Ethan Baron**, Victor Hau, Zeke Weng"]
@@ -10,26 +10,27 @@ To this end, we apply Probabilistic Matrix Factorization (PMF), a framework comm
 
 We contrast the empirical performance of PMF to the logistic regression approach and investigate the multivariate representations produced by PMF to gain insights into climber characteristics. Our results show that the multivariate PMF representations improve predictive performance of professional bouldering competitions by capturing both the overall strength of climbers and their specialized skill sets."
 featured: true
-publication: "Carnegie Mellon Sports Analytics Conference"
+weight: 2
+publication: "Carnegie Mellon Sports Analytics Conference (CMSAC)"
 links:
   - icon_pack: fas
     icon: trophy
-    name: Winner, Reproducible Research Competition
+    name: Best Student Paper @ CMSAC
+    alt: Best Student Paper @ 2024 Carnegie Mellon Sports Analytics Conference
     url: 'https://www.stat.cmu.edu/cmsac/conference/2024/'
-  - icon_pack: fas
-    icon: book
-    name: CMSAC
-    url: 'https://www.stat.cmu.edu/cmsac/conference/2024/#mu-research'
+  - icon_pack: fab
+    icon: youtube
+    name: Talk @ CMSAC
+    alt: Talk @ 2024 Carnegie Mellon Sports Analytics Conference
+    url: 'https://www.youtube.com/watch?v=Tsvp1APQqRA&pp=ygULYm91bGRlcjJ2ZWM%3D'
   - icon_pack: ai
     icon: arxiv
     name: arXiv
+    alt: Preprint on arXiv
     url: 'https://arxiv.org/abs/2411.02343'
   - icon_pack: fab
     icon: github
     name: GitHub
+    alt: Code on GitHub
     url: 'https://github.com/baronet2/boulder2vec'
-  - icon_pack: fab
-    icon: youtube
-    name: Video
-    url: 'https://www.youtube.com/watch?v=Tsvp1APQqRA&pp=ygULYm91bGRlcjJ2ZWM%3D'
 ---

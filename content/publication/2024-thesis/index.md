@@ -1,5 +1,5 @@
 ---
-title: "Multi-aspect reviewed-item retrieval"
+title: "Multi-Aspect Reviewed-Item Retrieval"
 date: 2024-05-01
 publishDate:  2024-05-01
 authors: ["**Ethan Baron**"]
@@ -12,14 +12,17 @@ Secondly, in many domains, information retrieval systems must leverage vast quan
 
 Thirdly, we introduce multi-aspect reviewed-item retrieval, which combines the two previous extensions. We show intuitively and formally that multi-aspect queries pose a failure mode for state-of-the-art reviewed-item retrieval methods. We propose a novel reviewed-item retrieval algorithm to address this failure mode, and validate empirically that it achieves improved performance on multi-aspect queries. We also investigate the impact of various design choices for this algorithm."
 featured: false
+weight: 6
 publication: "BASc Thesis, University of Toronto (supervised by Scott Sanner)"
 links:
-  - icon_pack: fa
-    icon: file-pdf
-    name: PDF
+  - icon_pack: fas
+    icon: book
+    name: 'Thesis @ UofT'
+    alt: "BASc Thesis, University of Toronto (PDF)"
     url: 'https://github.com/baronet2/MARIR/blob/main/Multi-aspect%20Reviewed-item%20Retrieval.pdf'
   - icon_pack: fab
     icon: github
-    name: GitHub
+    name: 'GitHub'
+    alt: "Code on GitHub"
     url: 'https://github.com/baronet2/marir'
 ---

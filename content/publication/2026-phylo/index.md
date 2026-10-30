@@ -7,36 +7,44 @@ publication_types: ["1"]
 abstract: "Phylogenetic inference plays a central role in understanding evolutionary relationships, with applications ranging from tracking pathogen spread to reconstructing the history of life. Conventionally, practitioners obtain posteriors over the phylogenetic tree of species using MCMC methods. However, such likelihood-based methods are only tractable for simple evolutionary models with restrictive assumptions. For more complex and realistic evolutionary models, conventional methods are prohibitively expensive, inaccurate, or even impossible. We instead advocate for a simulation-based inference approach, by using simulated data from an evolutionary model to train a neural network that predicts tree topologies conditioned on sequences. To accurately represent the complex posterior distributions over tree topologies that can arise, we present flexible models that iteratively generate trees using three natural paradigms: top-down, middle-out, and bottom-up. We use a discrete diffusion framework to train these models efficiently on large-scale simulated datasets of phylogenetic trees. For all three generative paradigms, our models fit the data substantially better than the previous state-of-the-art simulation-based method, Phyloformer 2, and obtain more accurate posteriors on real datasets. Finally, our models outperform misspecified conventional methods on data following complex evolutionary processes."
 
 featured: true
-publication: "NeurIPS 2026 **(Spotlight)**"
+weight: 2
+publication: "Spotlight @ Neural Information Processing Systems (NeurIPS)"
 
 links:
   - icon_pack: fas
     icon: star
-    name: Spotlight, NeurIPS
+    name: 'Spotlight @ NeurIPS'
+    alt: "Spotlight @ 2026 Conference on Neural Information Processing Systems"
     url: 'https://openreview.net/pdf?id=ZpGlbpubQi'
   - icon_pack: fas
     icon: star
-    name: Oral, MLCB
+    name: 'Oral @ MLCB'
+    alt: "Oral @ 2025 Machine Learning in Computational Biology"
     url: 'https://www.mlcb.org/posters'
   - icon_pack: fas
     icon: star
-    name: Spotlight, GenBio @ ICML
+    name: 'Spotlight @ ICML GenBio'
+    alt: "Spotlight @ ICML 2025 Workshop on Generative AI and Biology"
     url: 'https://openreview.net/forum?id=C3G6LfaLFE'
   - icon_pack: fas
     icon: book
-    name: SPIGM @ ICML
+    name: 'Paper @ ICML SPIGM'
+    alt: "Paper @ ICML 2025 Workshop on Structured Probabilistic Inference & Generative Modeling"
     url: 'https://openreview.net/forum?id=ps2NvoNKo3'
   - icon_pack: fas
     icon: book
-    name: GFM @ ICML
+    name: 'Paper @ ICML GFM'
+    alt: "Paper @ ICML 2025 GFM Workshop"
     url: 'https://openreview.net/forum?id=6w2TCV7wTn'
   - icon_pack: ai
     icon: arxiv
-    name: arXiv
+    name: 'arXiv'
+    alt: "Preprint on arXiv"
     url: 'https://arxiv.org/abs/2511.07390'
   - icon_pack: fab
     icon: github
-    name: GitHub
+    name: 'GitHub'
+    alt: "Code on GitHub"
     url: 'https://github.com/AlanNawzadAmin/DeepPhylo'
 ---
 
