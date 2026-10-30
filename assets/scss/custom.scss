@@ -20,6 +20,13 @@
   height: clamp(160px, 22vw, 240px);
 }
 
+/* Citation listings: match the author line's font to the paper title
+   (the theme's .article-metadata adds letter-spacing). */
+.view-citation .li-cite-author {
+  font-size: inherit;
+  letter-spacing: normal;
+}
+
 /* Custom css - inspired by nickballousite */
 
 @keyframes slide-from-right {

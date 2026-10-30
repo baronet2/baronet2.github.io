@@ -61,6 +61,8 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=p9-yqaMAAAAJ&hl=en
+    display:
+      header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/baronet2

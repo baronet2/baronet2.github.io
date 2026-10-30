@@ -14,14 +14,17 @@ of our model. We provide an open-source implementation of our methods at
 https://github.com/danielhocevar/Foundation-Model-for-Soccer."
 
 featured: false
-publication: "arXiv"
+weight: 3
+publication: "arXiv preprint"
 links:
   - icon_pack: ai
     icon: arxiv
     name: arXiv
+    alt: Preprint on arXiv
     url: 'https://arxiv.org/abs/2407.14558'
   - icon_pack: fab
     icon: github
     name: GitHub
+    alt: Code on GitHub
     url: 'https://github.com/danielhocevar/Foundation-Model-for-Soccer'
 ---

@@ -12,12 +12,9 @@ main:
   # - name: News
   #   url: '/news.html'
   #   weight: 30
-  - name: Publications
+  - name: Papers
     url: '/publication.html'
     weight: 40
-  - name: Talks
-    url: '/presentation.html'
-    weight: 50
 #  - name: Blog
 #    url: '/blog/'
 #    weight: 60

@@ -7,7 +7,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 59
 
-title: Selected Publications
+title: Selected Papers
 subtitle: 'See also my [Google Scholar](https://scholar.google.ca/citations?user=p9-yqaMAAAAJ&hl=en).'
 
 content:
@@ -26,8 +26,9 @@ content:
   count: 8
   # Choose how many pages you would like to offset by
   offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  # Page order: ascending (asc) weight, i.e. the order set in each entry.
+  order: asc
+  sort_by: Weight
 design:
   # Choose a view for the listings:
   view: citation
