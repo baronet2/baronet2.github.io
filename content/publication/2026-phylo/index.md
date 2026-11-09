@@ -19,22 +19,22 @@ links:
   - icon_pack: fas
     icon: star
     name: 'Oral @ MLCB'
-    alt: "Oral @ 2025 Machine Learning in Computational Biology"
+    alt: "Oral @ 2026 Machine Learning in Computational Biology"
     url: 'https://www.mlcb.org/posters'
   - icon_pack: fas
     icon: star
     name: 'Spotlight @ ICML GenBio'
-    alt: "Spotlight @ ICML 2025 Workshop on Generative AI and Biology"
+    alt: "Spotlight @ ICML 2026 Workshop on Generative AI and Biology"
     url: 'https://openreview.net/forum?id=C3G6LfaLFE'
   - icon_pack: fas
     icon: book
     name: 'Paper @ ICML SPIGM'
-    alt: "Paper @ ICML 2025 Workshop on Structured Probabilistic Inference & Generative Modeling"
+    alt: "Paper @ ICML 2026 Workshop on Structured Probabilistic Inference & Generative Modeling"
     url: 'https://openreview.net/forum?id=ps2NvoNKo3'
   - icon_pack: fas
     icon: book
     name: 'Paper @ ICML GFM'
-    alt: "Paper @ ICML 2025 GFM Workshop"
+    alt: "Paper @ ICML 2026 GFM Workshop"
     url: 'https://openreview.net/forum?id=6w2TCV7wTn'
   - icon_pack: ai
     icon: arxiv
