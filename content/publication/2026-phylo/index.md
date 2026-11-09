@@ -40,7 +40,7 @@ links:
     icon: arxiv
     name: 'arXiv'
     alt: "Preprint on arXiv"
-    url: 'https://arxiv.org/abs/2511.07390'
+    url: 'https://arxiv.org/abs/2610.19053'
   - icon_pack: fab
     icon: github
     name: 'GitHub'
